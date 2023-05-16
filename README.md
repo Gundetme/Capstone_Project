@@ -58,10 +58,10 @@ These steps will not only improve the churn prediction but also help in creating
 
 #### Outline of Project
 
-- [Data Collection and Data Inspection](link_to_notebook_1)
-- [Data Cleaning and Pre-processing](link_to_notebook_2)
-- [Exploratory Data Analysis (EDA)](link_to_notebook_3)
-- [Preparing Data for Machine Learning](link_to_notebook_4)
+- [Data Collection and Data Inspection](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2020.1%20Initial%20Report%20and%20Exploratory%20Data%20Analysis%20(EDA).ipynb)
+- [Data Cleaning and Pre-processing](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2020.1%20Initial%20Report%20and%20Exploratory%20Data%20Analysis%20(EDA).ipynb#Data Cleaning and Pre-processing)
+- [Exploratory Data Analysis (EDA)](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2020.1%20Initial%20Report%20and%20Exploratory%20Data%20Analysis%20(EDA).ipynb#Exploratory Data Analysis (EDA))
+- [Preparing Data for Machine Learning](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2020.1%20Initial%20Report%20and%20Exploratory%20Data%20Analysis%20(EDA).ipynb#Preparing Data for Machine Learning)
 
 ##### Contact and Further Information
 (Provide your contact information or any other relevant information here.)
