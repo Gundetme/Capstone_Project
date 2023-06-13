@@ -109,7 +109,7 @@ By considering these next steps, the project can continue to evolve and provide 
 - [Data Cleaning and Pre-processing](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2024.1:%20Final%20Report.ipynb#Data%20Cleaning%20and%20Pre-processing)
 - [Exploratory Data Analysis (EDA)](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2024.1:%20Final%20Report.ipynb#Exploratory%20Data%20Analysis%20(EDA))
 - [Machine Learning models](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2024.1:%20Final%20Report.ipynb#Random%20forest%20classifier)
-- [Comparision:g](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2024.1:%20Final%20Report.ipynb#Comparision:)
+- [Comparision:](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2024.1:%20Final%20Report.ipynb#Comparision:)
 - [Conclusion](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2024.1:%20Final%20Report.ipynb#Conclusion)
 
 
