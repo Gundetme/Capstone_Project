@@ -91,16 +91,16 @@ In conclusion, this project highlights the importance of data analysis and predi
 Next Steps and Improvements
 There are several potential next steps and improvements that can be considered for this project:
 
-Feature selection and engineering: Further analyze the importance of individual features and consider dropping or transforming less relevant ones. Additionally, explore the creation of new features that could provide more predictive power.
-Model tuning and optimization: Fine-tune the hyperparameters of the models to improve their performance. This can be done through techniques such as grid search, random search, or Bayesian optimization.
-Ensemble methods: Explore ensemble methods such as stacking, bagging, or boosting to combine the predictions of multiple models and potentially improve overall performance.
-Handling class imbalance: Address the class imbalance issue in the dataset, as the number of churned customers is typically lower than non-churned customers. Techniques like oversampling, undersampling, or SMOTE (Synthetic Minority Over-sampling Technique) can be used to balance the classes and potentially improve the models' performance.
-Time-based analysis: Conduct a time-based analysis to identify any patterns or trends in customer churn over time. This can help understand seasonality, changes in customer behavior, or the impact of specific events or promotions.
-Customer segmentation: Apply customer segmentation techniques to divide the customer base into distinct groups based on their characteristics and behaviors. This can provide deeper insights into the different factors influencing churn within each segment and allow for targeted retention strategies.
-External data integration: Explore the integration of external data sources, such as demographic or socio-economic data, that could provide additional insights into customer churn.
-Deploy and monitor the model: Once a satisfactory model is developed, deploy it in a production environment and continuously monitor its performance. This allows for timely identification of any degradation in model performance and the opportunity to retrain or recalibrate the model as needed.
+* **Feature selection and engineering:** Further analyze the importance of individual features and consider dropping or transforming less relevant ones. Additionally, explore the creation of new features that could provide more predictive power.
+* **Model tuning and optimization**: Fine-tune the hyperparameters of the models to improve their performance. This can be done through techniques such as grid search, random search, or Bayesian optimization.
+* **Ensemble methods:** Explore ensemble methods such as stacking, bagging, or boosting to combine the predictions of multiple models and potentially improve overall performance.
+* **Handling class imbalance:** Address the class imbalance issue in the dataset, as the number of churned customers is typically lower than non-churned customers. Techniques like oversampling, undersampling, or SMOTE (Synthetic Minority Over-sampling Technique) can be used to balance the classes and potentially improve the models' performance.
+* **Time-based analysis:** Conduct a time-based analysis to identify any patterns or trends in customer churn over time. This can help understand seasonality, changes in customer behavior, or the impact of specific events or promotions.
+* **Customer segmentation:** Apply customer segmentation techniques to divide the customer base into distinct groups based on their characteristics and behaviors. This can provide deeper insights into the different factors influencing churn within each segment and allow for targeted retention strategies.
+* **External data integration:** Explore the integration of external data sources, such as demographic or socio-economic data, that could provide additional insights into customer churn.
+* **Deploy and monitor the model:** Once a satisfactory model is developed, deploy it in a production environment and continuously monitor its performance. This allows for timely identification of any degradation in model performance and the opportunity to retrain or recalibrate the model as needed.
 Cost-benefit analysis: Perform a cost-benefit analysis to quantify the potential impact of implementing the strategies derived from the model. This analysis can help prioritize retention initiatives based on their expected return on investment.
-Continuous improvement: This project should be viewed as an iterative process. Continuously analyze customer churn, collect feedback, and refine the models and strategies based on new data and insights.
+* **Continuous improvement:** This project should be viewed as an iterative process. Continuously analyze customer churn, collect feedback, and refine the models and strategies based on new data and insights.
 By considering these next steps, the project can continue to evolve and provide valuable insights and strategies for improving customer retention and reducing churn rates.
 
 #### Outline of Project
