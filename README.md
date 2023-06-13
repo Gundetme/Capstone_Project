@@ -105,12 +105,12 @@ By considering these next steps, the project can continue to evolve and provide 
 
 #### Outline of Project
 
-- [Data Collection and Data Inspection](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2020.1%20Initial%20Report%20and%20Exploratory%20Data%20Analysis%20(EDA).ipynb)
-- [Data Cleaning and Pre-processing](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2020.1%20Initial%20Report%20and%20Exploratory%20Data%20Analysis%20(EDA).ipynb#Data%20Cleaning%20and%20Pre-processing)
-- [Exploratory Data Analysis (EDA)](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2020.1%20Initial%20Report%20and%20Exploratory%20Data%20Analysis%20(EDA).ipynb#Exploratory%20Data%20Analysis%20(EDA))
-- [Preparing Data for Machine Learning](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2020.1%20Initial%20Report%20and%20Exploratory%20Data%20Analysis%20(EDA).ipynb#Preparing%20Data%20for%20Machine%20Learning)
-- [Preparing Data for Machine Learning](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2020.1%20Initial%20Report%20and%20Exploratory%20Data%20Analysis%20(EDA).ipynb#Preparing%20Data%20for%20Machine%20Learning)
-- [Preparing Data for Machine Learning](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2020.1%20Initial%20Report%20and%20Exploratory%20Data%20Analysis%20(EDA).ipynb#Preparing%20Data%20for%20Machine%20Learning)
+- [Data Collection and Data Inspection](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2024.1:%20Final%20Report.ipynb)
+- [Data Cleaning and Pre-processing](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2024.1:%20Final%20Report.ipynb#Data%20Cleaning%20and%20Pre-processing)
+- [Exploratory Data Analysis (EDA)](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2024.1:%20Final%20Report.ipynb#Exploratory%20Data%20Analysis%20(EDA))
+- [Machine Learning models](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2024.1:%20Final%20Report.ipynb#Random%20forest%20classifier)
+- [Comparision:g](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2024.1:%20Final%20Report.ipynb#Comparision:)
+- [Conclusion](https://github.com/Gundetme/Capstone_Project/blob/main/Capstone%20Project%2024.1:%20Final%20Report.ipynb#Conclusion)
 
 
 ##### Contact and Further Information
