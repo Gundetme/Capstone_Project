@@ -75,11 +75,11 @@ Overall, all models showed reasonably good accuracy in predicting customer churn
 
 #### Conclusion
 
-In this project, we aimed to analyze and predict customer churn for a telecommunications company. We started by collecting and inspecting the dataset, followed by data cleaning and preprocessing. Exploratory data analysis (EDA) allowed us to gain insights into the relationships between various features and churn.
+In this project, I aimed to analyze and predict customer churn for a telecommunications company. I started by collecting and inspecting the dataset, followed by data cleaning and preprocessing. Exploratory data analysis (EDA) allowed us to gain insights into the relationships between various features and churn.
 
 Key findings from the EDA revealed that customers with fiber optic internet service, no online backup, no device protection, no tech support, month-to-month contracts, paperless billing, and who pay by electronic check are more likely to churn. These factors can be further investigated and targeted for customer retention strategies.
 
-We performed feature engineering to transform categorical variables using one-hot encoding and label encoding techniques. Subsequently, we developed predictive models including Random Forest Classifier, SVM, Logistic Regression, and Neural Network. We evaluated the performance of these models using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
+I performed feature engineering to transform categorical variables using one-hot encoding and label encoding techniques. Subsequently, I developed predictive models including Random Forest Classifier, SVM, Logistic Regression, and Neural Network. I evaluated the performance of these models using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
 
 Based on the evaluation, all models demonstrated reasonable accuracy in predicting customer churn. The Random Forest Classifier, SVM, and Logistic Regression models exhibited similar performance, outperforming the Neural Network model. These models can be further optimized and fine-tuned to improve their predictive power.
 
